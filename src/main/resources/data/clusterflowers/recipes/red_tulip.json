@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "clusterflowers:cluster_red_tulip"
+        }
+    ],
+    "result": {
+        "item": "minecraft:red_tulip",
+        "count": 1
+    }
+}
