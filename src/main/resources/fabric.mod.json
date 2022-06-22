@@ -1,25 +1,28 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "clusterflowers",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "Cluster Flowers",
+  "description": "At Scar's request, a mod to add clusterable flowers (like Candles and Sea Pickles)!",
   "authors": [
-    "Me!"
+    "SeerUK"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "https://github.com/seeruk",
+    "sources": "https://github.com/seeruk/mc-cluster-flowers"
   },
 
   "license": "CC0-1.0",
-  "icon": "assets/modid/icon.png",
+  "icon": "assets/clusterflowers/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "dev.seeruk.clusterflowers.ClusterFlowersMod"
+    ],
+    "client": [
+      "dev.seeruk.clusterflowers.ClusterFlowersClientMod"
     ]
   },
   "mixins": [
