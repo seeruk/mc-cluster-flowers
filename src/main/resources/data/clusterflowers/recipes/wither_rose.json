@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "clusterflowers:cluster_wither_rose"
+        }
+    ],
+    "result": {
+        "item": "minecraft:wither_rose",
+        "count": 1
+    }
+}

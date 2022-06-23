@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "clusterflowers:cluster_dandelion"
+        }
+    ],
+    "result": {
+        "item": "minecraft:dandelion",
+        "count": 1
+    }
+}

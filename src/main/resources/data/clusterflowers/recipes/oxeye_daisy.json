@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "clusterflowers:cluster_oxeye_daisy"
+        }
+    ],
+    "result": {
+        "item": "minecraft:oxeye_daisy",
+        "count": 1
+    }
+}

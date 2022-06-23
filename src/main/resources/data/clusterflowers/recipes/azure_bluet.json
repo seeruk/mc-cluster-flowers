@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "clusterflowers:cluster_azure_bluet"
+        }
+    ],
+    "result": {
+        "item": "minecraft:azure_bluet",
+        "count": 1
+    }
+}

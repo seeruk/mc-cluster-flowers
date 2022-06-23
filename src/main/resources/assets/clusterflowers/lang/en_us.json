@@ -1,3 +1,15 @@
 {
-    "block.clusterflowers.cluster_red_tulip": "Cluster Red Tulip"
+    "block.clusterflowers.cluster_dandelion": "Cluster Dandelion",
+    "block.clusterflowers.cluster_poppy": "Cluster Poppy",
+    "block.clusterflowers.cluster_blue_orchid":  "Cluster Blue Orchid",
+    "block.clusterflowers.cluster_allium": "Cluster Allium",
+    "block.clusterflowers.cluster_azure_bluet":  "Cluster Azure Bluet",
+    "block.clusterflowers.cluster_red_tulip": "Cluster Red Tulip",
+    "block.clusterflowers.cluster_orange_tulip": "Cluster Orange Tulip",
+    "block.clusterflowers.cluster_white_tulip": "Cluster White Tulip",
+    "block.clusterflowers.cluster_pink_tulip": "Cluster Pink Tulip",
+    "block.clusterflowers.cluster_oxeye_daisy": "Cluster Oxeye Daisy",
+    "block.clusterflowers.cluster_cornflower": "Cluster Cornflower",
+    "block.clusterflowers.cluster_lily_of_the_valley": "Cluster Lily of the Valley",
+    "block.clusterflowers.cluster_wither_rose": "Cluster Wither Rose"
 }

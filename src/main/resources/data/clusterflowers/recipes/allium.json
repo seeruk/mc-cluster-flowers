@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "clusterflowers:cluster_allium"
+        }
+    ],
+    "result": {
+        "item": "minecraft:allium",
+        "count": 1
+    }
+}

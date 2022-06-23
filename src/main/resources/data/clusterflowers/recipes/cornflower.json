@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "clusterflowers:cluster_cornflower"
+        }
+    ],
+    "result": {
+        "item": "minecraft:cornflower",
+        "count": 1
+    }
+}

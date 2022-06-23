@@ -20,6 +20,18 @@ public class ClusterFlowersClientMod implements ClientModInitializer {
 
         LOGGER.info("Hello from Cluster Flowers client!");
 
+        BlockRenderLayerMap.INSTANCE.putBlock(ClusterFlowersMod.CLUSTER_DANDELION, RenderLayer.getCutout());
+        BlockRenderLayerMap.INSTANCE.putBlock(ClusterFlowersMod.CLUSTER_POPPY, RenderLayer.getCutout());
+        BlockRenderLayerMap.INSTANCE.putBlock(ClusterFlowersMod.CLUSTER_BLUE_ORCHID, RenderLayer.getCutout());
+        BlockRenderLayerMap.INSTANCE.putBlock(ClusterFlowersMod.CLUSTER_ALLIUM, RenderLayer.getCutout());
+        BlockRenderLayerMap.INSTANCE.putBlock(ClusterFlowersMod.CLUSTER_AZURE_BLUET, RenderLayer.getCutout());
         BlockRenderLayerMap.INSTANCE.putBlock(ClusterFlowersMod.CLUSTER_RED_TULIP, RenderLayer.getCutout());
+        BlockRenderLayerMap.INSTANCE.putBlock(ClusterFlowersMod.CLUSTER_ORANGE_TULIP, RenderLayer.getCutout());
+        BlockRenderLayerMap.INSTANCE.putBlock(ClusterFlowersMod.CLUSTER_WHITE_TULIP, RenderLayer.getCutout());
+        BlockRenderLayerMap.INSTANCE.putBlock(ClusterFlowersMod.CLUSTER_PINK_TULIP, RenderLayer.getCutout());
+        BlockRenderLayerMap.INSTANCE.putBlock(ClusterFlowersMod.CLUSTER_OXEYE_DAISY, RenderLayer.getCutout());
+        BlockRenderLayerMap.INSTANCE.putBlock(ClusterFlowersMod.CLUSTER_CORNFLOWER, RenderLayer.getCutout());
+        BlockRenderLayerMap.INSTANCE.putBlock(ClusterFlowersMod.CLUSTER_LILY_OF_THE_VALLEY, RenderLayer.getCutout());
+        BlockRenderLayerMap.INSTANCE.putBlock(ClusterFlowersMod.CLUSTER_WITHER_ROSE, RenderLayer.getCutout());
     }
 }
