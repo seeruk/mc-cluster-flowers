@@ -1,0 +1,6 @@
+{
+    "parent": "clusterflowers:block/three_cross",
+    "textures": {
+        "cross": "minecraft:block/oxeye_daisy"
+    }
+}

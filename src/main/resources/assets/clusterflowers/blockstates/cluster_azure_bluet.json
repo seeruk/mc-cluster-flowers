@@ -1,0 +1,16 @@
+{
+    "variants": {
+        "flowers=1": {
+            "model": "clusterflowers:block/cluster_azure_bluet"
+        },
+        "flowers=2": {
+            "model": "clusterflowers:block/two_cluster_azure_bluet"
+        },
+        "flowers=3": {
+            "model": "clusterflowers:block/three_cluster_azure_bluet"
+        },
+        "flowers=4": {
+            "model": "clusterflowers:block/four_cluster_azure_bluet"
+        }
+    }
+}

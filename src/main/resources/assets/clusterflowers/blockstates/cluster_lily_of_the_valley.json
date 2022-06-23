@@ -1,0 +1,16 @@
+{
+    "variants": {
+        "flowers=1": {
+            "model": "clusterflowers:block/cluster_lily_of_the_valley"
+        },
+        "flowers=2": {
+            "model": "clusterflowers:block/two_cluster_lily_of_the_valley"
+        },
+        "flowers=3": {
+            "model": "clusterflowers:block/three_cluster_lily_of_the_valley"
+        },
+        "flowers=4": {
+            "model": "clusterflowers:block/four_cluster_lily_of_the_valley"
+        }
+    }
+}
