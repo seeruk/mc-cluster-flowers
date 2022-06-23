@@ -1,0 +1,18 @@
+{
+    "replace": false,
+    "values": [
+        "clusterflowers:cluster_dandelion",
+        "clusterflowers:cluster_poppy",
+        "clusterflowers:cluster_blue_orchid",
+        "clusterflowers:cluster_allium",
+        "clusterflowers:cluster_azure_bluet",
+        "clusterflowers:cluster_red_tulip",
+        "clusterflowers:cluster_orange_tulip",
+        "clusterflowers:cluster_white_tulip",
+        "clusterflowers:cluster_pink_tulip",
+        "clusterflowers:cluster_oxeye_daisy",
+        "clusterflowers:cluster_cornflower",
+        "clusterflowers:cluster_lily_of_the_valley",
+        "clusterflowers:cluster_wither_rose"
+    ]
+}
